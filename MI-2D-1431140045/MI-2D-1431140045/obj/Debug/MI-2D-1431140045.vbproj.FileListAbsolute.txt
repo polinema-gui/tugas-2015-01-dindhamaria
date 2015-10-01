@@ -1,0 +1,10 @@
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\bin\Debug\MI-2D-1431140045.exe.config
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\bin\Debug\MI-2D-1431140045.exe
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\bin\Debug\MI-2D-1431140045.pdb
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\bin\Debug\MI-2D-1431140045.xml
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\obj\Debug\MI_2D_1431140045.Form1.resources
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\obj\Debug\MI_2D_1431140045.Resources.resources
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\obj\Debug\MI-2D-1431140045.vbproj.GenerateResource.Cache
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\obj\Debug\MI-2D-1431140045.exe
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\obj\Debug\MI-2D-1431140045.xml
+c:\users\dindha\documents\visual studio 2012\Projects\MI-2D-1431140045\MI-2D-1431140045\obj\Debug\MI-2D-1431140045.pdb
